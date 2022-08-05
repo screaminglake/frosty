@@ -24,18 +24,18 @@
       "$type": "Links, Wabbajack.Lib",
       "image": "https://i.imgur.com/SybWVgV.png",
       "readme": "https://www.fallout4experiences.com/stay-frosty",
-      "download": "https://authored-files.wabbajack.org/Stay%20FROSTy.wabbajack_7a6c66de-825f-499f-8fcd-d268a4a8e64f",
+      "download": "https://authored-files.wabbajack.org/Stay FROSTy.wabbajack_7f2da4f6-734e-4475-92d1-440db4a1c627",
       "machineURL": "frosty",
       "discordURL": "https://discord.gg/strraNQxEQ"
     },
     "download_metadata": {
-       "$type": "DownloadMetadata, Wabbajack.Lib",
-       "Hash": "roL5zwX1Ulg=",
-       "Size": 6877430,
-       "NumberOfArchives": 145,
-       "SizeOfArchives": 10163507205,
-       "NumberOfInstalledFiles": 13614,
-       "SizeOfInstalledFiles": 17085962757
+      "$type": "DownloadMetadata, Wabbajack.Lib",
+      "Hash": "5jbGz+SQQ+c=",
+      "Size": 6877528,
+      "NumberOfArchives": 145,
+      "SizeOfArchives": 10163507205,
+      "NumberOfInstalledFiles": 13615,
+      "SizeOfInstalledFiles": 17085962810
     },
     "version": "1.0",
     "RepositoryName": ""
