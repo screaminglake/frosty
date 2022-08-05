@@ -1,0 +1,43 @@
+
+  {
+    "$type": "ModListMetadata, Wabbajack.Lib",
+    "title": "Stay FROSTy",
+    "description": "Stay FROSTy is an experience entirely based around attempting to provide a complete and stable FROST experience.  For those that have never heard of it, FROST Survival Simulator is a hardcore total conversion mod for Fallout 4 that overhauls literally every aspect of the game to play like something else entirely.  As a survival simulator, survival is the goal and several difficult gameplay mechanics are implemented to make that exceptionally difficult.  Care has been given to ensure that the lore, balance, and mechanics of FROST and its addons fall perfectly in sync with one another.  For those looking for a complete and comprehensive FROST experience out of the box, this is it.",
+    "author": "ScreamingLake",
+    "maintainers": [
+      "github/screaminglake"
+    ],
+    "game": "fallout4",
+    "official": false,
+    "tags": [
+      "FROST",
+      "Hardcore Survival",
+      "Experience",
+      "Unofficial",
+      "Winter"
+    ],
+    "nsfw": false,
+    "utility_list": false,
+    "image_contains_title": true,
+    "force_down": false,
+    "links": {
+      "$type": "Links, Wabbajack.Lib",
+      "image": "https://i.imgur.com/SybWVgV.png",
+      "readme": "https://www.fallout4experiences.com/stay-frosty",
+      "download": "https://authored-files.wabbajack.org/Stay%20FROSTy.wabbajack_7a6c66de-825f-499f-8fcd-d268a4a8e64f",
+      "machineURL": "frosty",
+      "discordURL": "https://discord.gg/strraNQxEQ"
+    },
+    "download_metadata": {
+       "$type": "DownloadMetadata, Wabbajack.Lib",
+       "Hash": "roL5zwX1Ulg=",
+       "Size": 6877430,
+       "NumberOfArchives": 145,
+       "SizeOfArchives": 10163507205,
+       "NumberOfInstalledFiles": 13614,
+       "SizeOfInstalledFiles": 17085962757
+    },
+    "version": "1.0",
+    "RepositoryName": ""
+  }
+]
