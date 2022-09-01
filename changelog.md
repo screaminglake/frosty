@@ -1,6 +1,6 @@
 # 1.1
 
-  -Updated FROST Official Updates </ br>
+  -Updated FROST Official Updates <br />
   -Updated FROST - UFO4P Patch
   -Updated FROST - More Starting Locations
   -Updated krrptd FROST Patch Compendium
