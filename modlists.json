@@ -1,6 +1,5 @@
 [
   {
-    "$type": "ModListMetadata, Wabbajack.Lib",
     "title": "Stay FROSTy",
     "description": "Stay FROSTy is an experience entirely based around attempting to provide a complete and stable FROST experience.  For those that have never heard of it, FROST Survival Simulator is a hardcore total conversion mod for Fallout 4 that overhauls literally every aspect of the game to play like something else entirely.  As a survival simulator, survival is the goal and several difficult gameplay mechanics are implemented to make that exceptionally difficult.  Care has been given to ensure that the lore, balance, and mechanics of FROST and its addons fall perfectly in sync with one another.  For those looking for a complete and comprehensive FROST experience out of the box, this is it.",
     "author": "ScreamingLake",
@@ -21,23 +20,23 @@
     "image_contains_title": true,
     "force_down": false,
     "links": {
-      "$type": "Links, Wabbajack.Lib",
       "image": "https://i.imgur.com/SybWVgV.png",
       "readme": "https://www.fallout4experiences.com/stay-frosty",
-      "download": "https://authored-files.wabbajack.org/Stay FROSTy.wabbajack_597ec5d5-1a72-4410-ab6f-53cc63d24fe2",
+      "download": "https://authored-files.wabbajack.org/Stay FROSTy.wabbajack_f74db9d6-cdf3-49e2-abce-66c95146710a",
       "machineURL": "frosty",
       "discordURL": "https://discord.gg/strraNQxEQ"
     },
     "download_metadata": {
-      "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "xaZj2o+DH3U=",
-      "Size": 6913145,
-      "NumberOfArchives": 145,
-      "SizeOfArchives": 10792881815,
-      "NumberOfInstalledFiles": 13716,
-      "SizeOfInstalledFiles": 17730741799
+      "Hash": "Wy4Np+lt8uo=",
+      "Size": 7030339,
+      "NumberOfArchives": 143,
+      "SizeOfArchives": 10319712435,
+      "NumberOfInstalledFiles": 13540,
+      "SizeOfInstalledFiles": 17232830843
     },
-    "version": "1.1",
-    "RepositoryName": ""
+    "version": "1.1.5",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "2022-10-07T16:36:49.6691449Z",
+    "repositoryName": ""
   }
 ]
