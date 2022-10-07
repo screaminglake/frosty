@@ -1,3 +1,12 @@
+# 1.1.5
+
+  -Updated Survival Configuration Menu <br />
+  -Updated IAF - FROST patch <br />
+  -Added Grease Gun and FROST replacer patch <br />
+  -Removed More Feral Ghouls and its FROST patch <br />
+  -Removed pp-91 Kedr and FROST pipe gun replacer <br />
+  -Reverted HUD to vanilla layout (still mostly hidden by Immersive HUD)
+
 # 1.1
 
   -Updated FROST Official Updates <br />
