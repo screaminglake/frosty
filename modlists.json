@@ -22,21 +22,21 @@
     "links": {
       "image": "https://i.imgur.com/SybWVgV.png",
       "readme": "https://www.fallout4experiences.com/stay-frosty",
-      "download": "https://authored-files.wabbajack.org/Stay FROSTy.wabbajack_8844538e-c713-4f56-8d74-22d10960ff51",
+      "download": "https://authored-files.wabbajack.org/Stay FROSTy.wabbajack_69a576e0-dd2a-42d8-b4fd-069a07b1d66a",
       "machineURL": "frosty",
       "discordURL": "https://discord.gg/strraNQxEQ"
     },
     "download_metadata": {
-      "Hash": "WAIMkdetcaY=",
-      "Size": 6851241,
-      "NumberOfArchives": 135,
-      "SizeOfArchives": 10906659960,
-      "NumberOfInstalledFiles": 13017,
-      "SizeOfInstalledFiles": 13891370303
+      "Hash": "573S2x0Q/JM=",
+      "Size": 6859535,
+      "NumberOfArchives": 133,
+      "SizeOfArchives": 10950829284,
+      "NumberOfInstalledFiles": 13019,
+      "SizeOfInstalledFiles": 13963027906
     },
-    "version": "1.2",
+    "version": "1.2.1",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2022-12-03T19:27:54.3292028Z",
+    "dateUpdated": "2022-12-18T19:47:39.5723329Z",
     "repositoryName": ""
   }
 ]
