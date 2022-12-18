@@ -1,3 +1,17 @@
+# 1.2.1
+
+-updated Lost Audio Tweaks and patches <br />
+-updated to RAO - tweaked <br />
+-updated inner city ambience <br />
+-updated bullet in the chamber <br />
+-updated krrptd's FROST patch compendium <br />
+-updated FROST - russian recon pack <br />
+-updated FROST official updates (redux) <br />
+-Updated FROST - UFO4P Compatibility Patch <br />
+-Updated FROST - caravan shotgun patch and replcer <br />
+-Updated FROST - service rifle patch and replacer <br />
+-updated FROST - stalker backpack
+
 # 1.2
 
   -BIG update to FROST Official Updates now on a new Nexus page.  Read the changelog here for more info on what all has changed:  https://www.nexusmods.com/fallout4/mods/65485?tab=logs <br />
