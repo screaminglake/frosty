@@ -1,25 +1,25 @@
 # 1.2.2
 
-Updated FROST Survival Simulator
-Updated Immersive Animation Framework
-Updated FROST - IAF Patch
-Updated FROST Bullpup Bozar Patch and Replacer
-Updated FROST Grease Gun SMG Patch and Replacer
-Updated Bullet Impact Overhaul
-Added Physics Impact Overhaul and Bullet Casing Sounds
-Updated LOST Audio Tweaks and patches
-Updated FROST - Russian Recon Pack
-Updated FROST - Riot Shotgun Patch and Replacer
-Updated FROST - Mosin Nagant
-Updated FROST - M1928A1 Replacer
-Updated FROST - M1 Garand Patch and Replacer
-Updated FROST - Bren Gun
-Updated FROST - Colt Delta Elite Replacer
-Updated FROST - AK74M
-Updated FROST - .45 Auto Pistol Patch and Replacer
-Updated FROST - 9x39 Project
-Added Minutemen Watchtowers and MM Watchtowers FROSTified
-Fixed postmenu loading speed (you should no longer get killed before loading into a cell after a loading screen
+Updated FROST Survival Simulator <br />
+Updated Immersive Animation Framework <br />
+Updated FROST - IAF Patch <br />
+Updated FROST Bullpup Bozar Patch and Replacer <br />
+Updated FROST Grease Gun SMG Patch and Replacer <br />
+Updated Bullet Impact Overhaul <br />
+Added Physics Impact Overhaul and Bullet Casing Sounds <br />
+Updated LOST Audio Tweaks and patches <br />
+Updated FROST - Russian Recon Pack <br />
+Updated FROST - Riot Shotgun Patch and Replacer <br />
+Updated FROST - Mosin Nagant <br />
+Updated FROST - M1928A1 Replacer <br />
+Updated FROST - M1 Garand Patch and Replacer <br />
+Updated FROST - Bren Gun <br />
+Updated FROST - Colt Delta Elite Replacer <br />
+Updated FROST - AK74M <br />
+Updated FROST - .45 Auto Pistol Patch and Replacer <br />
+Updated FROST - 9x39 Project <br />
+Added Minutemen Watchtowers and MM Watchtowers FROSTified <br />
+Fixed postmenu loading speed (you should no longer get killed before loading into a cell after a loading screen <br />
 Removed BCR - lever action rifle patch
 
 # 1.2.1
