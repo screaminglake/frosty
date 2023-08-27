@@ -1,3 +1,39 @@
+# 1.3 - THE FINAL UPDATE
+
+-Updated to v2.2.1 (latest) for Frost Official Updates (Redux) which features an absolute ton of fixes and changes to the core FROST experience.  Read more here under changelogs:  https://www.nexusmods.com/fallout4/mods/65485?tab=logs <br />
+-Updated Immersive Animation Framework - FROST patch <br />
+-Updated krrptd's FROST patch compendium <br />
+-Updated FROST - UFO4P Patch <br />
+-Updated Bullet in the chamber <br />
+-Updated lost audio tweaks <br />
+-Updated bullet impact overhaul <br />
+-Updated Frost Cell Fixes and patches <br />
+-Updated survival configuration menu <br />
+-Updated Unofficial Fallout 4 Patch <br />
+-Updated FROST - 9x39 project patch <br />
+-Updated FROST - ak74m patch <br />
+-Updated FROST - service rifle patch and replacer <br />
+-Updated FROST - m1928a1 thompson replacer <br />
+-Updated FROST - mosin nagant patch <br />
+-Updated FROST - m1 garand patch and replacer <br />
+-Updated FROST - grease gun smg patch and replacer <br />
+-Updated FROST - caravan shotgun patch and replacer <br />
+-Updated FROST - Bren Gun <br />
+-Updated Ultimate Window Overhaul <br />
+-Updated BCR - Hunting Shotgun Patch <br />
+-Added simple attack reactions - limb-specific animations <br />
+-Added simple attack reaction speed fix <br />
+-Added fallout 4 particle patch with gloomy glass <br />
+-Added wood crate retexture (mikmet) <br />
+-Added other crates retexture (mikmet) <br />
+-Added metal box retexture (mikmet) <br />
+-Added weapon debri crash fix <br />
+-Added ambient tunnels of boston <br />
+-Added oblivion drone robot audio replacement <br />
+-Added recoil shake and low ammo sounds <br />
+-Removed automatically lowered weapons (now has a hotkey under bullet in the chamber)
+
+
 # 1.2.2
 
 Updated FROST Survival Simulator <br />
